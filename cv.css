@@ -1,0 +1,65 @@
+/*rapelle*/
+
+*
+{
+	margin: auto;
+	
+
+}
+
+html
+{
+background-color:#002F2F;
+}
+
+body
+{
+  margin-top:30px;
+  width:800px;
+  background-color:#ABC8E2;
+}
+
+h1{text-align:center;}
+
+.tete
+{
+	background-color: #FFBF00;
+	width: 200px;
+	float: left;
+	margin-right: 30px;
+}
+
+#profile
+{
+	width: 200px;
+	height: 200px;
+	border-radius: 10px;
+	border-style: ridge;
+	background-color: #FFFFFF;
+}
+
+.pied
+{
+	padding: 10px;
+	background-color: #FFBF00;
+}
+
+.info
+{
+text-align:center;
+text-decoration:underline;
+}
+
+nav
+{
+width:590px;
+margin-left:210px;
+}
+
+section
+{
+	width: 570px;
+	height: 700px;
+	margin-left: 230px;
+	overflow: auto;
+}
