@@ -14,19 +14,24 @@ background-color:#002F2F;
 
 body
 {
-  margin-top:30px;
-  width:800px;
-  background-color:#ABC8E2;
+	margin-top:30px;
+ 	width:800px;
+        border: 2px solid #a1a1a1;
+        padding: 10px 40px;
+        background: #ABC8E2;
+        border-radius: 25px;
+
 }
 
 h1{text-align:center;}
 
 .tete
 {
-	background-color: #FFBF00;
 	width: 200px;
 	float: left;
 	margin-right: 30px;
+        background: #FFBF00;
+        border-radius: 25px;
 }
 
 #profile
@@ -40,8 +45,14 @@ h1{text-align:center;}
 
 .pied
 {
-	padding: 10px;
-	background-color: #FFBF00;
+	/*background-color: #FFBF00;*/ 
+	border: 2px solid #a1a1a1;
+	padding: 10px 40px;
+	background: #dddddd;
+	border-radius: 25px;
+	width:800px;
+	margin-left:-42px;
+	margin-bottom:-20px;
 }
 
 .info
@@ -50,11 +61,11 @@ text-align:center;
 text-decoration:underline;
 }
 
-nav
+/*nav
 {
 width:590px;
 margin-left:210px;
-}
+}*/
 
 section
 {
@@ -63,3 +74,5 @@ section
 	margin-left: 230px;
 	overflow: auto;
 }
+
+
